@@ -27,5 +27,8 @@ Classify news headlines into categories (World, Sports, Business, Sci/Tech) usin
 - Streamlit app allows real-time classification of new headlines.
 - The project demonstrates an end-to-end NLP workflow: preprocessing → fine-tuning → evaluation → deployment.
 
+**Note:** The model folder is not included in the repo due to large file size.  
+To run locally, download the trained model and place it in `model/news_classifier_model/`.
+
 ### Notebook
 Notebook: https://colab.research.google.com/drive/1BbINotWGM7nyYhiHYm3tPfkA-rHGex4O?usp=sharing
